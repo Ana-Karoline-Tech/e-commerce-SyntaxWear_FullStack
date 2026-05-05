@@ -23,7 +23,7 @@
   --color-footer-bg: hsl(0, 0%, 20%);
   --color-footer-hover: hsl(0, 0%, 80%);
 
-  --font-display: "Ubuntu Regular", sans-serif;
+  --font-display: "Ubuntu", sans-serif;
 }
 
 @font-face {
