@@ -6,7 +6,7 @@ import CardIcon from '../../assets/images/icons/logo/icon-compras.svg';
 export const Header = () => {
     return (
         <div className='relative'>
-            <header className="fixed bg-taupe-700 top-0 left-0 right-0 z-10">
+            <header className="fixed top-10 left-0 right-0 z-10">
                 <div className=" bg-white max-w-7xl mx-auto flex items-center justify-between px-6 py-4 rounded-2xl mt-5">
                     <img 
                         src={Logo} 
